@@ -11,7 +11,7 @@ int main()
 {
 	cout << "C867 - Scripting and Programming: Applications\nLanguage: C++\nStudent ID: 000983159\nName: Link ofHyrule" << endl << endl;
 
-
+	// The following will be parsed to populate the class roster
 	const std::string studentData[] = { "A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
 									"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 									"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
